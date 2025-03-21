@@ -22,6 +22,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "3D Gaussian Splatting":
+        filters: ["3D Gaussian Splatting", "real-time rendering",
+                  "Mesh", "3D Mesh converter"]
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
     "SFM":
@@ -35,9 +38,3 @@ keywords:
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
-    "3D Gaussian Splatting":
-        filters: ["3D Gaussian Splatting", "real-time rendering",
-                  "Mesh", "3D Mesh converter"]
-
-
-
