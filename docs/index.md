@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844](http://arxiv.org/abs/2504.04844)|null|
+|**2025-04-06**|**SELC: Self-Supervised Efficient Local Correspondence Learning for Low Quality Images**|Yuqing Wang et.al.|[2504.04497](http://arxiv.org/abs/2504.04497)|null|
+|**2025-04-06**|**VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets**|Alejandro Fontan et.al.|[2504.04457](http://arxiv.org/abs/2504.04457)|null|
+|**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba et.al.|[2504.04239](http://arxiv.org/abs/2504.04239)|null|
+|**2025-04-04**|**WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**|Jianhao Zheng et.al.|[2504.03886](http://arxiv.org/abs/2504.03886)|null|
+|**2025-04-03**|**SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections**|Prashant Kumar et.al.|[2504.03089](http://arxiv.org/abs/2504.03089)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
@@ -887,8 +893,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**|José A. Pilartes-Congo et.al.|[2504.06464](http://arxiv.org/abs/2504.06464)|null|
+|**2025-04-07**|**Decoding the variability in the star-formation histories of z ~ 0.8 galaxies**|Jenny T. Wan et.al.|[2504.05281](http://arxiv.org/abs/2504.05281)|null|
+|**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294](http://arxiv.org/abs/2504.04294)|null|
+|**2025-04-04**|**An Algebraic Geometry Approach to Viewing Graph Solvability**|Federica Arrigoni et.al.|[2504.03637](http://arxiv.org/abs/2504.03637)|null|
+|**2025-04-04**|**Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video**|Jiaxin Guo et.al.|[2504.03198](http://arxiv.org/abs/2504.03198)|null|
 |**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
-|**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732](http://arxiv.org/abs/2504.01732)|null|
+|**2025-04-09**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732](http://arxiv.org/abs/2504.01732)|null|
 |**2025-03-31**|**LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**|Han Zhou et.al.|[2504.00219](http://arxiv.org/abs/2504.00219)|null|
 |**2025-03-30**|**AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos**|Felix Wimbauer et.al.|[2503.23282](http://arxiv.org/abs/2503.23282)|**[link](https://github.com/Brummi/anycam)**|
 |**2025-03-24**|**Ground Penetrating Radar-Assisted Multimodal Robot Odometry Using Subsurface Feature Matrix**|Haifeng Li et.al.|[2503.18301](http://arxiv.org/abs/2503.18301)|null|
@@ -1260,7 +1271,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
+|**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
+|**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
+|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
@@ -2668,6 +2683,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
+|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
 |**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881](http://arxiv.org/abs/2503.22881)|**[link](https://github.com/pairx-explains/pairx)**|
@@ -4493,6 +4511,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
+|**2025-04-09**|**A modified-residue prescription to calculate dynamical correlation functions**|Igor Benek-Lins et.al.|[2504.06912](http://arxiv.org/abs/2504.06912)|null|
+|**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827](http://arxiv.org/abs/2504.06827)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
+|**2025-04-09**|**Benchmarking Convolutional Neural Network and Graph Neural Network based Surrogate Models on a Real-World Car External Aerodynamics Dataset**|Sam Jacob Jacob et.al.|[2504.06699](http://arxiv.org/abs/2504.06699)|null|
+|**2025-04-09**|**InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction**|Yi Zhang et.al.|[2504.06620](http://arxiv.org/abs/2504.06620)|null|
+|**2025-04-09**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|X. Sun et.al.|[2504.06598](http://arxiv.org/abs/2504.06598)|null|
+|**2025-04-08**|**Scalable Routing in a City-Scale Wi-Fi Network for Disaster Recovery**|Ziqian Liu et.al.|[2504.06406](http://arxiv.org/abs/2504.06406)|null|
+|**2025-04-08**|**PromptHMR: Promptable Human Mesh Recovery**|Yufu Wang et.al.|[2504.06397](http://arxiv.org/abs/2504.06397)|null|
+|**2025-04-08**|**An asymptotic preserving scheme for the M1model of non-local thermal transport for two-dimensional structured and unstructured meshes**|Jean-Luc Feugeas et.al.|[2504.06149](http://arxiv.org/abs/2504.06149)|null|
 |**2025-04-03**|**A Physics-Informed Meta-Learning Framework for the Continuous Solution of Parametric PDEs on Arbitrary Geometries**|Reza Najian Asl et.al.|[2504.02459](http://arxiv.org/abs/2504.02459)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
 |**2025-04-03**|**Koney: A Cyber Deception Orchestration Framework for Kubernetes**|Mario Kahlhofer et.al.|[2504.02431](http://arxiv.org/abs/2504.02431)|null|
