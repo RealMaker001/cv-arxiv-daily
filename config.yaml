@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "3D Gaussian Splatting":
-        filters: ["3D Gaussian Splatting", "real-time rendering",
+        filters: ["3D Gaussian Splatting", "real-time rendering", "2D Gaussian Splatting",
                   "Mesh", "3D Mesh converter"]
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
