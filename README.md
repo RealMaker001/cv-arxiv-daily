@@ -1,4 +1,4 @@
-## Updated on 2025.05.16
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -944,7 +944,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## SFM
 
@@ -1350,7 +1350,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2494,7 +2494,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2804,7 +2804,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3134,7 +3134,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## NeRF
 
@@ -4645,7 +4645,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -4668,13 +4668,13 @@
 |**2025-05-08**|**Three dimensional seepage analysis using a polyhedral scaled boundary finite element method**|Mingjiao Yan et.al.|[2505.05244](http://arxiv.org/abs/2505.05244)|null|
 |**2025-05-08**|**On the stability and conditioning of a fictitious domain formulation for fluid-structure interaction problems**|Daniele Boffi et.al.|[2505.05228](http://arxiv.org/abs/2505.05228)|null|
 |**2025-05-08**|**SOAP: Style-Omniscient Animatable Portraits**|Tingting Liao et.al.|[2505.05022](http://arxiv.org/abs/2505.05022)|**[link](https://github.com/tingtingliao/soap)**|
-|**2025-05-07**|**Big Data Architecture for Large Organizations**|Fathima Nuzla Ismail et.al.|[2505.04717](http://arxiv.org/abs/2505.04717)|null|
+|**2025-05-07**|**Big Data Architecture for Large Organizations**|Fathima Nuzla Ismail et.al.|[2505.04717](http://arxiv.org/abs/2505.04717)|**[link](https://github.com/genomicai/bigdata)**|
 |**2025-05-08**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590](http://arxiv.org/abs/2505.04590)|**[link](https://github.com/AlexandreBinninger/TetWeave)**|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
 |**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235](http://arxiv.org/abs/2505.01235)|null|
 |**2025-05-02**|**Machine learning-based prediction of species mass fraction and flame characteristics in partially premixed turbulent jet flame**|Amirali Shateri et.al.|[2505.01201](http://arxiv.org/abs/2505.01201)|null|
-|**2025-05-01**|**Hardware-Efficient Large-Scale Universal Linear Transformations for Optical Modes in the Synthetic Time Dimension**|Jasvith Raj Basani et.al.|[2505.00865](http://arxiv.org/abs/2505.00865)|null|
+|**2025-05-01**|**Hardware-Efficient Large-Scale Universal Linear Transformations for Optical Modes in the Synthetic Time Dimension**|Jasvith Raj Basani et.al.|[2505.00865](http://arxiv.org/abs/2505.00865)|**[link](https://github.com/JasvithBasani/CasOptAx)**|
 |**2025-05-01**|**A New Semi-Discrete Finite-Volume Active Flux Method for Hyperbolic Conservation Laws**|Rémi Abgrall et.al.|[2505.00798](http://arxiv.org/abs/2505.00798)|null|
 |**2025-05-01**|**Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction**|Simon Giebenhain et.al.|[2505.00615](http://arxiv.org/abs/2505.00615)|null|
 |**2025-05-01**|**Weak Random Feature Method for Solving Partial Differential Equations**|Mikhail Kuvakin et.al.|[2505.00508](http://arxiv.org/abs/2505.00508)|null|
@@ -4792,7 +4792,7 @@
 |**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
 |**2025-03-20**|**Investigation of Chip Evacuation in Ejector Deep Hole Drilling using Mesh-Free Simulation Methods**|Nuwan Rupasinghe et.al.|[2503.15982](http://arxiv.org/abs/2503.15982)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

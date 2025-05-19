@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.16
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4647,13 +4647,13 @@ layout: default
 |**2025-05-08**|**Three dimensional seepage analysis using a polyhedral scaled boundary finite element method**|Mingjiao Yan et.al.|[2505.05244](http://arxiv.org/abs/2505.05244)|null|
 |**2025-05-08**|**On the stability and conditioning of a fictitious domain formulation for fluid-structure interaction problems**|Daniele Boffi et.al.|[2505.05228](http://arxiv.org/abs/2505.05228)|null|
 |**2025-05-08**|**SOAP: Style-Omniscient Animatable Portraits**|Tingting Liao et.al.|[2505.05022](http://arxiv.org/abs/2505.05022)|**[link](https://github.com/tingtingliao/soap)**|
-|**2025-05-07**|**Big Data Architecture for Large Organizations**|Fathima Nuzla Ismail et.al.|[2505.04717](http://arxiv.org/abs/2505.04717)|null|
+|**2025-05-07**|**Big Data Architecture for Large Organizations**|Fathima Nuzla Ismail et.al.|[2505.04717](http://arxiv.org/abs/2505.04717)|**[link](https://github.com/genomicai/bigdata)**|
 |**2025-05-08**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590](http://arxiv.org/abs/2505.04590)|**[link](https://github.com/AlexandreBinninger/TetWeave)**|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
 |**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235](http://arxiv.org/abs/2505.01235)|null|
 |**2025-05-02**|**Machine learning-based prediction of species mass fraction and flame characteristics in partially premixed turbulent jet flame**|Amirali Shateri et.al.|[2505.01201](http://arxiv.org/abs/2505.01201)|null|
-|**2025-05-01**|**Hardware-Efficient Large-Scale Universal Linear Transformations for Optical Modes in the Synthetic Time Dimension**|Jasvith Raj Basani et.al.|[2505.00865](http://arxiv.org/abs/2505.00865)|null|
+|**2025-05-01**|**Hardware-Efficient Large-Scale Universal Linear Transformations for Optical Modes in the Synthetic Time Dimension**|Jasvith Raj Basani et.al.|[2505.00865](http://arxiv.org/abs/2505.00865)|**[link](https://github.com/JasvithBasani/CasOptAx)**|
 |**2025-05-01**|**A New Semi-Discrete Finite-Volume Active Flux Method for Hyperbolic Conservation Laws**|Rémi Abgrall et.al.|[2505.00798](http://arxiv.org/abs/2505.00798)|null|
 |**2025-05-01**|**Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction**|Simon Giebenhain et.al.|[2505.00615](http://arxiv.org/abs/2505.00615)|null|
 |**2025-05-01**|**Weak Random Feature Method for Solving Partial Differential Equations**|Mikhail Kuvakin et.al.|[2505.00508](http://arxiv.org/abs/2505.00508)|null|
