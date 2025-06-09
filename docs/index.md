@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.06
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -366,7 +366,7 @@ layout: default
 |**2024-09-16**|**P2U-SLAM: A Monocular Wide-FoV SLAM System Based on Point Uncertainty and Pose Uncertainty**|Yufan Zhang et.al.|[2409.10143](http://arxiv.org/abs/2409.10143)|**[link](https://github.com/bambvalley/p2u-slam)**|
 |**2024-09-16**|**SHIRE: Enhancing Sample Efficiency using Human Intuition in REinforcement Learning**|Amogh Joshi et.al.|[2409.09990](http://arxiv.org/abs/2409.09990)|null|
 |**2024-09-16**|**Enhancing Visual Inertial SLAM with Magnetic Measurements**|Bharat Joshi et.al.|[2409.09904](http://arxiv.org/abs/2409.09904)|null|
-|**2024-09-15**|**Marginalizing and Conditioning Gaussians onto Linear Approximations of Smooth Manifolds with Applications in Robotics**|Zi Cong Guo et.al.|[2409.09871](http://arxiv.org/abs/2409.09871)|null|
+|**2024-09-15**|**Marginalizing and Conditioning Gaussians onto Linear Approximations of Smooth Manifolds with Applications in Robotics**|Zi Cong Guo et.al.|[2409.09871](http://arxiv.org/abs/2409.09871)|**[link](https://github.com/qetuo1098/marg_cond_gaussian_example)**|
 |**2024-09-15**|**Range-SLAM: Ultra-Wideband-Based Smoke-Resistant Real-Time Localization and Mapping**|Yi Liu et.al.|[2409.09763](http://arxiv.org/abs/2409.09763)|null|
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726](http://arxiv.org/abs/2409.09726)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
@@ -974,7 +974,7 @@ layout: default
 |**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
 |**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
-|**2025-05-30**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi et.al.|[2505.22759](http://arxiv.org/abs/2505.22759)|null|
+|**2025-05-30**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi et.al.|[2505.22759](http://arxiv.org/abs/2505.22759)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
 |**2025-05-30**|**Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
@@ -4751,7 +4751,7 @@ layout: default
 |**2025-05-14**|**Variational formulations of transport on combinatorial meshes**|Kiprian Berbatov et.al.|[2505.09443](http://arxiv.org/abs/2505.09443)|**[link](https://github.com/kipiberbatov/cmc)**|
 |**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
 |**2025-05-14**|**Derivative-free optimization is competitive for aerodynamic design optimization in moderate dimensions**|Punya Plaban et.al.|[2505.09088](http://arxiv.org/abs/2505.09088)|**[link](https://github.com/csdlpsu/aso)**|
-|**2025-05-13**|**Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps**|Liwen Wu et.al.|[2505.08985](http://arxiv.org/abs/2505.08985)|null|
+|**2025-05-13**|**Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps**|Liwen Wu et.al.|[2505.08985](http://arxiv.org/abs/2505.08985)|**[link](https://github.com/lwwu2/glint24)**|
 |**2025-05-13**|**Convergence and Stability of Discrete Exterior Calculus for the Hodge Laplace Problem in Two Dimensions**|Chengbin Zhu et.al.|[2505.08966](http://arxiv.org/abs/2505.08966)|null|
 |**2025-05-13**|**A Framework for Analysis of DEC Approximations to Hodge-Laplacian Problems using Generalized Whitney Forms**|Johnny Guzmán et.al.|[2505.08934](http://arxiv.org/abs/2505.08934)|**[link](https://github.com/pratyushpotu/DEC_convergence_tests)**|
 |**2025-05-13**|**Plastic deformation as a phase transition: a combinatorial model of plastic flow in copper single crystals**|Afonso D. M. Barroso et.al.|[2505.08689](http://arxiv.org/abs/2505.08689)|null|
@@ -4799,7 +4799,7 @@ layout: default
 |**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545](http://arxiv.org/abs/2504.16545)|null|
 |**2025-04-23**|**Advancing Radar Hand Gesture Recognition: A Hybrid Spectrum Synthetic Framework Merging Simulation with Neural Networks**|Jiaqi Tang et.al.|[2504.16423](http://arxiv.org/abs/2504.16423)|null|
 |**2025-04-22**|**SUPRA: Subspace Parameterized Attention for Neural Operator on General Domains**|Zherui Yang et.al.|[2504.15897](http://arxiv.org/abs/2504.15897)|null|
-|**2025-04-22**|**3D Printing of Invariant Manifolds in Dynamical Systems**|Patrick R. Bishop et.al.|[2504.15884](http://arxiv.org/abs/2504.15884)|null|
+|**2025-04-22**|**3D Printing of Invariant Manifolds in Dynamical Systems**|Patrick R. Bishop et.al.|[2504.15884](http://arxiv.org/abs/2504.15884)|**[link](https://github.com/esander1789/3dprintinginvariantmanifolds)**|
 |**2025-04-23**|**Fast Higher-Order Interpolation and Restriction in ExaHyPE Avoiding Non-physical Reflections**|Timothy Stokes et.al.|[2504.15814](http://arxiv.org/abs/2504.15814)|null|
 |**2025-04-22**|**Neural Kinematic Bases for Fluids**|Yibo Liu et.al.|[2504.15657](http://arxiv.org/abs/2504.15657)|null|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
@@ -4865,7 +4865,7 @@ layout: default
 |**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|**[link](https://github.com/internlandmark/landmarksystem)**|
 |**2025-03-27**|**Delayed dynamic triggering and enhanced high-frequency seismic radiation due to brittle rock damage in 3D multi-fault rupture simulations**|Zihua Niu et.al.|[2503.21260](http://arxiv.org/abs/2503.21260)|null|
 |**2025-03-27**|**Frequency-Aware Gaussian Splatting Decomposition**|Yishai Lavi et.al.|[2503.21226](http://arxiv.org/abs/2503.21226)|null|
-|**2025-03-27**|**GPU-Accelerated Charge-Equilibration for Shadow Molecular Dynamics in Python**|Mehmet Cagri Kaymak et.al.|[2503.21176](http://arxiv.org/abs/2503.21176)|null|
+|**2025-03-27**|**GPU-Accelerated Charge-Equilibration for Shadow Molecular Dynamics in Python**|Mehmet Cagri Kaymak et.al.|[2503.21176](http://arxiv.org/abs/2503.21176)|**[link](https://github.com/LANL/sedacs)**|
 |**2025-03-27**|**Effect of convective transport in edge/SOL plasmas of ADITYA-U tokamak**|Ritu Dey et.al.|[2503.21163](http://arxiv.org/abs/2503.21163)|null|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-24**|**Least-Squares Finite Element Methods for nonlinear problems: A unified framework**|Fleurianne Bertrand et.al.|[2503.18739](http://arxiv.org/abs/2503.18739)|null|
