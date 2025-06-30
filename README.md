@@ -1,4 +1,4 @@
-## Updated on 2025.06.26
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2025-06-06**|**Analysis of points outcome in ATP Grand Slam Tennis using big data and machine learning**|Martin Illum et.al.|[2506.05866](http://arxiv.org/abs/2506.05866)|null|
 |**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558](http://arxiv.org/abs/2506.05558)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
-|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
 |**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224](http://arxiv.org/abs/2506.04224)|null|
 |**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
 |**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
@@ -1001,7 +1001,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## SFM
 
@@ -1433,7 +1433,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1552,7 +1552,7 @@
 |**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
 |**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
 |**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|**[link](https://github.com/syqlyx/StructVPR)**|
-|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|**[link](https://github.com/hqitao/textinplace)**|
 |**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
@@ -2623,7 +2623,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2938,7 +2938,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3280,7 +3280,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## NeRF
 
@@ -4791,7 +4791,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## 3D Gaussian Splatting
 
@@ -4808,14 +4808,14 @@
 |**2025-06-23**|**Flow-Aware Diffusion for Real-Time VR Restoration: Enhancing Spatiotemporal Coherence and Efficiency**|Yitong Zhu et.al.|[2506.18786](http://arxiv.org/abs/2506.18786)|null|
 |**2025-06-23**|**Versatile Absorption Modeling for Transmissive Optical Elements Using Ray Tracing and Finite Element Analysis**|Mark Kurcsics et.al.|[2506.18752](http://arxiv.org/abs/2506.18752)|null|
 |**2025-06-18**|**Non-uniform finite-element meshes defined by ray dynamics for Helmholtz problems**|Martin Averseng et.al.|[2506.15630](http://arxiv.org/abs/2506.15630)|null|
-|**2025-06-18**|**MicroRicci: A Greedy and Local Ricci Flow Solver for Self-Tuning Mesh Smoothing**|Le Vu Anh et.al.|[2506.15571](http://arxiv.org/abs/2506.15571)|null|
+|**2025-06-18**|**MicroRicci: A Greedy and Local Ricci Flow Solver for Self-Tuning Mesh Smoothing**|Le Vu Anh et.al.|[2506.15571](http://arxiv.org/abs/2506.15571)|**[link](https://github.com/csplevuanh/microricci)**|
 |**2025-06-18**|**Construction of an Organ Shape Atlas Using a Hierarchical Mesh Variational Autoencoder**|Zijie Wang et.al.|[2506.15557](http://arxiv.org/abs/2506.15557)|null|
-|**2025-06-18**|**Cosmic curl -- Features and convergence of the vorticity power spectrum in $N$ -body simulations**|Camilla T. G. Sørensen et.al.|[2506.15486](http://arxiv.org/abs/2506.15486)|null|
+|**2025-06-18**|**Cosmic curl -- Features and convergence of the vorticity power spectrum in $N$ -body simulations**|Camilla T. G. Sørensen et.al.|[2506.15486](http://arxiv.org/abs/2506.15486)|**[link](https://github.com/aarhuscosmology/dtfe)**|
 |**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-18**|**A Nonconforming Finite Element Method for Elliptic Interface Problems on Locally Anisotropic Meshes**|Hua Wang et.al.|[2506.15077](http://arxiv.org/abs/2506.15077)|null|
-|**2025-06-17**|**Interpolation-based reproducing kernel particle method**|Jennifer E. Fromm et.al.|[2506.14916](http://arxiv.org/abs/2506.14916)|null|
+|**2025-06-17**|**Interpolation-based reproducing kernel particle method**|Jennifer E. Fromm et.al.|[2506.14916](http://arxiv.org/abs/2506.14916)|**[link](https://github.com/jefromm/int-rkpm)**|
 |**2025-06-17**|**SkinCells: Sparse Skinning using Voronoi Cells**|Egor Larionov et.al.|[2506.14714](http://arxiv.org/abs/2506.14714)|null|
-|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|**[link](https://github.com/yukexing/3dgs-ieval-15k)**|
 |**2025-06-17**|**Protostellar disks in their natural habitat -- the formation of protostars and their accretion disks in the turbulent and magnetized interstellar medium**|Alexander C. Mayer et.al.|[2506.14394](http://arxiv.org/abs/2506.14394)|null|
 |**2025-06-12**|**A space-time interface-fitted method for moving-subdomain distributed control problems with energy regularization**|Quang Huy Nguyen et.al.|[2506.10924](http://arxiv.org/abs/2506.10924)|null|
 |**2025-06-12**|**Spectral Analysis of Discretized Boundary Integral Operators in 3D: a High-Frequency Perspective**|V. Giunzioni et.al.|[2506.10880](http://arxiv.org/abs/2506.10880)|null|
@@ -5018,7 +5018,7 @@
 |**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
 |**2025-03-20**|**Investigation of Chip Evacuation in Ejector Deep Hole Drilling using Mesh-Free Simulation Methods**|Nuwan Rupasinghe et.al.|[2503.15982](http://arxiv.org/abs/2503.15982)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
